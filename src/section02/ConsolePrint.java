@@ -8,6 +8,8 @@ public class ConsolePrint {
 		
 		System.out.println("java World");
 		
-		System.out.printf("오늘은 %d월 %d일 입니다.", 4,22);
+		System.out.printf("오늘은 %d월 %d일 입니다.\n", 4,22);
+		
+		System.out.printf("%d은 첫번재 ,%f은 두번째, %s은 세번째",1,2.0,"셋");
 	}
 }
