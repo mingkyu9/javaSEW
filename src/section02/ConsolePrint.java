@@ -13,3 +13,8 @@ public class ConsolePrint {
 		System.out.printf("%d은 첫번재 ,%f은 두번째, %s은 세번째",1,2.0,"셋");
 	}
 }
+
+/*
+ * %s :문자열 //여러개의 문자
+ * %c :문자 //하나의 문자 
+ */
