@@ -22,6 +22,7 @@ public class JavaLangClass02 {
 		}
 		else {
 			System.out.println("sports1 과 sports2는 다릅니다.");
+			
 		}
 		
 		
